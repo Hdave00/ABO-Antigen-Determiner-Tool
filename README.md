@@ -9,7 +9,7 @@ It has one `main` function, and three purposeful functions:
 2. One for error checking of blood group correction when user input is given to parse each parent's alleles
 3. One function that generates the ASCII tree animation at the terminal
 
-This program generates a child's blood group from what their parent's alleles are, based on the ABO antigen system discovered by the Austrian pathologist and biologist <ins>Karl Landsteiner</ins> in 1901. Blood types are classified into type A, type B, type AB, and type O based on five glycoprotein antigens—A, B, AB, A1, and H—that are expressed on the surface of RBCs along with the Rh antigen system for + and - antigens.
+This program generates a child's blood group from what their parent's alleles are, based on the ABO antigen system discovered by the Austrian pathologist and biologist [Karl Landsteiner](https://en.wikipedia.org/wiki/Karl_Landsteiner) in 1901. Blood types are classified into type A, type B, type AB, and type O based on five glycoprotein antigens—A, B, AB, A1, and H—that are expressed on the surface of RBCs along with the Rh antigen system for + and - antigens.
 
 The process will go through different functions and classes to calculate which blood group the child will get based on the parents' alleles. Then the data will be visualized using Rich as it is the lightest visualization framework available, and its ASCII output doesn't rely on the web, APIs, or any variable framework that generates files, which reduces the probability of running into issues.
 
