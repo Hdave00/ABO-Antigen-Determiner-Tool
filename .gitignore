@@ -1,3 +1,5 @@
 __pycache__/
 test_project.py
 /bloodgrouptool/
+/build/project/
+/dist/
