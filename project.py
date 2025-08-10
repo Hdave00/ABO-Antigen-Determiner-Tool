@@ -1,5 +1,5 @@
 # The process will go through different functions and classes to determine based on what Alleles of the parents, will the child get which blood group
-# Then the data will be visualised using rich as it is the lightest visualization framework out there and its in ASCII so it does not rely on the web.
+# Then the data will be visualised using rich as it is the lightest CLI-based visualization framework out there and its in ASCII so it does not rely on the web.
 
 import re
 import random
